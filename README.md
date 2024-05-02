@@ -56,6 +56,6 @@ Download our trained model from the following link:
 
 We welcome contributions! Whether you have ideas for improvements, feature requests, or bug reports, feel free to submit an issue or create a pull request. For major changes, please open an issue first to discuss the proposed alterations.
 
-Don't forget to ⭐ Star this repository to show your support!
+Don't forget to ⭐ Star this repository!
 
 Thank you for using TrustWave AI DeepFake Detection System!
