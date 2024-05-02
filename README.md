@@ -8,8 +8,6 @@ Welcome to the TrustWave AI DeepFake Detection System repository! Our goal is to
 
 - **Multi-modal Analysis**: Our system conducts comprehensive analysis across various modalities, including image, video, and audio, to ensure thorough assessment of media authenticity.
 
-- **Real-time Detection**: Capable of real-time detection, our system promptly identifies and flags potentially fraudulent content as it emerges.
-
 - **Scalability**: Designed with scalability in mind, our system can handle large volumes of media content across diverse platforms and applications.
 
 ## Requirements
