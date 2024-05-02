@@ -34,7 +34,7 @@ We achieved impressive results with our model:
 - **Model Used**: model_89_acc_40_frames_final_data.pt
 - **Number of Videos**: 6000
 - **Number of Frames**: 40
-- **Accuracy**: 89.35%
+- **Accuracy**: 89.74%
 
 ## Datasets
 
